@@ -1,3 +1,4 @@
+
 	html, body
 	{
 		height: 100%;
@@ -515,3 +516,52 @@
 		color: rgba(255, 255, 255, 0.5);
 	}
 
+
+
+
+
+/*IMPORTANTE*/
+.history
+	{
+        display: flex;
+		float: left;
+        margin-right: 20px;
+    }
+
+  .copyrightsobre 
+  {
+      background-color: #1e1e1e;
+  }
+  .welcome 
+  {
+      width: 800px;
+  }
+  .star
+  {
+      color: white;
+  }
+  .fa 
+  {
+    color: white;
+  }
+  .card-body
+  {
+      background-color: #1e1e1e;
+      border-color: #1e1e1e;
+
+  }
+
+  .card-title
+  {
+     color: rgb(255, 255, 255);
+    font-weight: bolder;
+    }
+  .card-text 
+  {
+      color: rgb(255, 255, 255);
+  }
+  #card
+  {
+    display: flex;
+     margin-left: 40000px;
+  }
